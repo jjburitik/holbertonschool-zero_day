@@ -1,1 +1,1 @@
-This is my **first** project [link](https://www.holbertonschool.com "Title")holbertonschool-zero_day
+This is my **first** project [holbertonschool](https://www.holbertonschool.com "Title")-zero_day
